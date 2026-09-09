@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![Movie & OTT Analytics Dashboard](Power BI/Dashboard.png)
+![Movie & OTT Analytics Dashboard](Power%20BI/Dashboard.png)
 
 ---
 
