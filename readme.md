@@ -162,11 +162,14 @@ The dashboard includes interactive filters that allow users to explore the datas
 - Release Year
 - Genre
 - Country
+- OTT Platform
+- Rating Category
+
+---
 
 ## 📊 Dashboard Preview
 
 ![Movie & OTT Analytics Dashboard](Excel/Excel%20Dashboard.png)
 
 ---
-- OTT Platform
-- Rating Category
+
